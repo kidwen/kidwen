@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on ...-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidwen&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
