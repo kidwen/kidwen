@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ...- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidwen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
