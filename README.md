@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML,SCSS)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kidwen&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=kidwen)
