@@ -1,8 +1,3 @@
-<!--
-[![Top Langs](https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML,SCSS,CSS)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kidwen&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true)](https://git.io/streak-stats)
--->
-
 <p>
   <img width="49%" src="https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML,SCSS,CSS"/>
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=kidwen&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true"/>
@@ -10,10 +5,8 @@
 <p>
   <img align="center" src="https://profile-counter.glitch.me/kidwen/count.svg"/>
 </p>
-<!--
-![](https://komarev.com/ghpvc/?username=kidwen)
-[![kidwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kidwen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 **kidwen/kidwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
