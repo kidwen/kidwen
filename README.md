@@ -1,8 +1,5 @@
 <p>
   <img width="49%" src="https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML,SCSS,CSS"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kidwen&theme=dark&border_radius=8&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</p>
-<p>
   <img align="center" src="https://profile-counter.glitch.me/kidwen/count.svg"/>
 </p>
 
