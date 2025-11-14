@@ -1,6 +1,6 @@
 <p>
   <img width="49%" src="https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML,SCSS,CSS"/>
-  <img src="https://stats.justsong.cn/api/leetcode?username=kidwen&cn=true"/>
+  <img src="https://stats-cards-git-master-kidwens-projects.vercel.app/api/leetcode?username=kidwen&cn=true"/>
 </p>
 
 <!--
