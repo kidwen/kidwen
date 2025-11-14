@@ -1,6 +1,6 @@
 <p>
   <img width="49%" src="https://github-readme-stats-kidwen.vercel.app/api/top-langs/?username=kidwen&theme=radical&hide_border=true&layout=compact&hide=HTML,SCSS,CSS"/>
-  <img align="center" src="https://profile-counter.glitch.me/kidwen/count.svg"/>
+
 </p>
 
 <!--
